@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm vampireAb, a full-time full-stack freelance developer 👨‍💻 working remotely starting fresh 🚀</div>  
+### <div align="center">I'm vampireAb, a full-time full-stack freelance developer 👨‍💻 working remotely & starting fresh 🚀</div>  
   
 
 - 🔭 I’m currently working on [CodeBush](https://github.com/vampire-ab/CodeBush)  
