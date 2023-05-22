@@ -6,21 +6,6 @@
 ### <div align="center">I'm vampireAb, a full-time full-stack freelance developer 👨‍💻 working remotely & starting fresh 🚀</div>  
   
 
-- 🔭 I’m currently working on [CodeBush](https://github.com/vampire-ab/CodeBush)  
-  
-
-- 🌱 I’m currently learning Hadoop, Blockchain and MERN  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I love Cardistry  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
